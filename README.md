@@ -11,7 +11,7 @@ Grâce au **code promo OPTMZR10**, vous bénéficiez **d’une réduction imméd
 
 ### **Étapes pour Appliquer le Code Promo :**
 
-1️⃣ **[Accédez au code promo wisewand]([#](https://github.com/codepromowisewand/codepromowisewand))** et connectez-vous ou créez un compte.  
+1️⃣ **[Accédez au Code Promo Wisewand](https://github.com/codepromowisewand/codepromowisewand)** et connectez-vous ou créez un compte.  
 2️⃣ Sélectionnez votre pack de crédits selon vos besoins.  
 3️⃣ Lors du paiement, **entrez le code OPTMZR10** dans le champ dédié au code promo.  
 4️⃣ **La réduction de -10% s’applique immédiatement**, et vous bénéficiez de cet avantage pour toutes vos futures recharges.
@@ -60,3 +60,5 @@ Oui, **peu importe le montant de votre recharge**, **la réduction s’applique 
 ✔️ **Aucune limite d’utilisation : -10% garantis à chaque achat**  
 
 📌 **Ne ratez pas cette opportunité ! Activez votre réduction dès aujourd’hui.**
+👉 **[Utilisez OPTMZR10 et économisez dès maintenant](#)**
+
